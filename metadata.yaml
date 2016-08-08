@@ -1,0 +1,31 @@
+_repo: Nouveaux-contes-bleus_12120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laboulaye, Édouard
+    aliases:
+    - Laboulaye, Édouard-René Lefebvre de
+    - Laboulaye, Edouard
+    birthdate: 1811
+    deathdate: 1883
+    gutenberg_agent_id: '4235'
+    url: http://www.gutenberg.org/2009/agents/4235
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89douard_Ren%C3%A9_Lef%C3%A8vre_de_Laboulaye
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12120'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: "Contes islandais\r\nZerbin le farouche\r\nLe pacha berger\r\nPerlino\r\
+  \nLa sagesse des nations ou Les voyages du capitaine Jean\r\nLe château de la vie"
+title: Nouveaux contes bleus
+url: http://www.gutenberg.org/ebooks/12120
