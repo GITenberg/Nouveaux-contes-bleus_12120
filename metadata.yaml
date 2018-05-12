@@ -1,5 +1,8 @@
 _repo: Nouveaux-contes-bleus_12120
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Laboulaye, Édouard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4235
     wikipedia: http://en.wikipedia.org/wiki/%C3%89douard_Ren%C3%A9_Lef%C3%A8vre_de_Laboulaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12120#Nouveaux-contes-bleus
 gutenberg_bookshelf: FR Contes
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
